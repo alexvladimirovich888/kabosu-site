@@ -1,6 +1,6 @@
 {
   "name": "Kabosu Blog",
-  "description": "Blog post about the new family kitten Hotaru (ほたるちゃん) and dog.",
+  "description": "Blog post about the new family kitten Kohaku 琥珀 and dog.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
