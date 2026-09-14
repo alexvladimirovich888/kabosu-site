@@ -7,6 +7,14 @@
     {
       "source": "/archives/55857704",
       "destination": "/index.html"
+    },
+    {
+      "source": "/archives/558577032",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/archives/558577032.html",
+      "destination": "/index.html"
     }
   ]
 }
